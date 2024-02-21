@@ -4,7 +4,7 @@ permalink: /our-products/open-source-data/permalink/
 description: ""
 third_nav_title: Business Platforms
 ---
-![Smart Nation GoBusiness](https://d33wubrfki0l68.cloudfront.net/1e3db23d52df0e395b1cb851d78a86fa3beb4c47/a72ec/images/programmes/products-and-services/gbtitleimage.png)
+![Smart Nation GoBusiness](/images/programmes/products-and-services/gbtitleimage.png)
 
 [GoBusiness](https://www.gobusiness.gov.sg/) is an online platform to connect business owners to various Government e-services and resources. This includes registering a business, applying for licences and grants, and more. Jointly developed by the Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
 
