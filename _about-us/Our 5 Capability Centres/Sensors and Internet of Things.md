@@ -37,4 +37,4 @@ Here are some of the roles we are hiring for:
 
 Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be).
 
-![Sensors and Internet of Things Quotes](https://d33wubrfki0l68.cloudfront.net/b9d733db913d65775d4e4d8c6c7744b8f343853b/1e430/images/capcentre-siot-quotes.png)
+![Sensors and Internet of Things Quotes](/images/capcentre-siot-quotes.png)
