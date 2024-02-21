@@ -4,7 +4,7 @@ permalink: /our-products/citizen-services/permalink/
 description: ""
 third_nav_title: Citizen Services
 ---
-![CrowdTaskSG Logo](https://d33wubrfki0l68.cloudfront.net/b9de72cee4a2028fc9b7a52b5e7992b3374cbdf9/4da4a/images/programmes/products-and-services/ctsg_banner.jpg)
+![CrowdTaskSG Logo](/images/programmes/products-and-services/ctsg_banner.jpg)
 
 CrowdTaskSG is a crowdsourcing web portal that aims to tap the collective intelligence of Singaporeans regarding national issues to provide actionable insights to government agencies.
 
@@ -18,15 +18,15 @@ From its inception, the portal has since developed many key features, which incl
 
 Citizens can earn experience points (XPs) when they complete tasks and surveys. XPs can be used to level up their ranks from Stone, Bronze, Silver, Gold and finally, Platinum. These would eventually help prepare citizens for the upcoming leaderboard feature, whereby they will be able to see where they stand amongst other fellow Singaporeans.
 
-![CrowdTaskSG - Complete Tasks](https://d33wubrfki0l68.cloudfront.net/7ac02368fe9b5ac884f660f49ece1b480ecf9594/9e851/images/programmes/products-and-services/ctsg_complete_tasks.png)
+![CrowdTaskSG - Complete Tasks](/images/programmes/products-and-services/ctsg_complete_tasks.png)
 
-![CrowdTaskSG - Rise up the Ranks](https://d33wubrfki0l68.cloudfront.net/34d07d20fe88f3825596b56b13f7ee834e17d972/45369/images/programmes/products-and-services/ctsg_rise_ranks.png)
+![CrowdTaskSG - Rise up the Ranks](/images/programmes/products-and-services/ctsg_rise_ranks.png)
 
 ### Incentivisation
 
 From completing tasks, citizens can earn virtual coins too. These coins can then be accumulated to redeem rewards such as vouchers. The more surveys and tasks a citizen completes, the more they will be rewarded. In the future, the portal will be looking to expand its range of rewards to include cash straight into citizens’ GovWallet accounts.
 
-![CrowdTaskSG - Redeem](https://d33wubrfki0l68.cloudfront.net/5c1fd7df8952b26e6160748d250892bcc71e154b/9ddc6/images/programmes/products-and-services/ctsg_redeem.png)
+![CrowdTaskSG - Redeem](/images/programmes/products-and-services/ctsg_redeem.png)
 
 CrowdTaskSG offers citizen users various opportunities to share opinions and feedback with government agencies.
 
