@@ -4,7 +4,7 @@ permalink: /about-us/our-5-capability-centres/permalink/
 description: ""
 third_nav_title: Our 5 Capability Centres
 ---
-![Data Science and Artificial Intelligence](https://d33wubrfki0l68.cloudfront.net/cc8986219eb9c4f9a37b89c282018674bd56e22a/04e59/images/capcentre-dsaid-banner.jpg)
+![Data Science and Artificial Intelligence](/images/capcentre-dsaid-banner.jpg)
 
 #### **Data Science and Artificial Intelligence**
 
@@ -36,4 +36,4 @@ Here are some of the roles we are hiring for:
 
 Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be).
 
-![Data Science and Artificial Intelligence Quotes](https://d33wubrfki0l68.cloudfront.net/a190bc7ec5ca28f1acee2f65c2b685be9d156852/a5e44/images/capcentre-dsaid-quotes2.png)
+![Data Science and Artificial Intelligence Quotes](/images/capcentre-dsaid-quotes2.png)
