@@ -4,7 +4,7 @@ permalink: /about-us/our-5-capability-centres/permalink/
 description: ""
 third_nav_title: Our 5 Capability Centres
 ---
-![Government ICT Infrastructure](https://d33wubrfki0l68.cloudfront.net/cbafad1f11053b184ac9a099d18a7021046c7827/009ba/images/capcentre-gig-banner.jpg)
+![Government ICT Infrastructure](/images/capcentre-gig-banner.jpg)
 
 #### **Government ICT Infrastructure**
 
@@ -27,8 +27,8 @@ The 2 key roles we are hiring for:
 
 Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be).
 
-![Government ICT Infrastructure Quotes](https://d33wubrfki0l68.cloudfront.net/af5e9a0cd52f35c48c7de50bb4b85cfcf36d85e9/6a3ba/images/capcentre-gig-quote-daryl.png)
+![Government ICT Infrastructure Quotes](/images/capcentre-gig-quote-daryl.png)
 
-![Government ICT Infrastructure Quotes](https://d33wubrfki0l68.cloudfront.net/230888d57e579bf2921452c232fb5df5862a0075/cd50d/images/capcentre-gig-quote-layhian.png)
+![Government ICT Infrastructure Quotes](/images/capcentre-gig-quote-layhian.png)
 
-![Government ICT Infrastructure Quotes](https://d33wubrfki0l68.cloudfront.net/fa1299242c6cdad3a4a2d60584255238fb49fa25/1d79a/images/capcentre-gig-quote-karthik2.png)
+![Government ICT Infrastructure Quotes](/images/capcentre-gig-quote-karthik2.png)
