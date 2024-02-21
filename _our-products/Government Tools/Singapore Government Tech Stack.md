@@ -4,9 +4,9 @@ permalink: /our-products/government-tools/permalink/
 description: ""
 third_nav_title: Government Tools
 ---
-![SGTS](https://d33wubrfki0l68.cloudfront.net/e457fe09780d18d8ddb219b048122fc528a18a3f/f4708/images/programmes/products-and-services/singapore-government-tech-stack-part-1.jpg)
+![SGTS](/images/programmes/products-and-services/singapore-government-tech-stack-part-1.jpg)
 
-![SGTS](https://d33wubrfki0l68.cloudfront.net/b20393b238f9ffa2cc7f8045c5559b62fc3d9aea/144a6/images/programmes/products-and-services/singapore-government-tech-stack-part-2.jpg)
+![SGTS](/images/programmes/products-and-services/singapore-government-tech-stack-part-2.jpg)
 
 Background of SGTS
 ------------------
