@@ -33,7 +33,7 @@ Our digital government efforts can be classified into these few areas:
 
 **WOG Platforms and Tools**
 
-[![Cybersecurity](https://d33wubrfki0l68.cloudfront.net/d28f495f37d9f89a08c2eb40f9e493b80b9fa77c/90934/images/digital-transformation/07-cybersecurity.png)](https://www.tech.gov.sg/singapore-digital-government-journey/cybersecurity)
+[![Cybersecurity](/images/digital-transformation/07-cybersecurity.png)](https://www.tech.gov.sg/singapore-digital-government-journey/cybersecurity)
 
 **Cybersecurity**
 
@@ -45,7 +45,7 @@ Our digital government efforts can be classified into these few areas:
 
 The Survey on Satisfaction with Government Digital Services for citizens and businesses is conducted annually by GovTech in collaboration with the Smart Nation and Digital Government Office (SNDGO) to assess citizens’ and businesses’ satisfaction with key government digital services and to identify areas for improvement.
 
-![Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020](https://d33wubrfki0l68.cloudfront.net/49ed4c212e6856c2502d23424aa52692aa98d16d/a82ee/images/digital-transformation/fig-3-citizen-and-business-satisfaction.png)
+![Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020](/images/digital-transformation/fig-3-citizen-and-business-satisfaction.png)
 
 Fig 3: Citizen and Business Satisfaction for Government Digital Services in Singapore for 2020
 
