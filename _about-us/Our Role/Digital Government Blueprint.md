@@ -30,7 +30,7 @@ The DGB has been updated to accurately reflect the current plans and to push for
 *   We have met the target for number of officers trained in data analytics and data science and will review a new KPI.
 *   All 20 Ministries have submitted plans to use Artificial Intelligence.
 
-![Image of Digital Government Blueprint](https://d33wubrfki0l68.cloudfront.net/04f7671a536c65c5319f97edb1d12b0f3ee50e19/d068f/images/digital-transformation/digital_government_aug21.jpeg)
+![Image of Digital Government Blueprint](/images/digital-transformation/digital_government_aug21.jpeg)
 
 Here is how the DGB will benefit you:
 
@@ -46,7 +46,7 @@ The DGB is a testament of Singapore’s ambition to leverage data and new techno
 
 Based on the DGB, GovTech plans to achieve the following goals by 2023:
 
-![Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)](https://d33wubrfki0l68.cloudfront.net/e5791dceb70f63f05170a3ffd61d5e3dae582f26/6f9a6/images/digital-transformation/fig-4-singapore-digital-government-goals.png)
+![Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)](/images/digital-transformation/fig-4-singapore-digital-government-goals.png)
 
 Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)
 
