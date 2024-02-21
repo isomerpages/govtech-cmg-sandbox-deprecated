@@ -11,7 +11,7 @@ Invited Smart Nation Fellows will collaborate with us over three to six months t
 **Hear from our Fellows**
 -------------------------
 
-![Smart Nation Fellowship Fellows](https://d33wubrfki0l68.cloudfront.net/b2c741113020846f952d49662950cf44d295f61f/12414/images/careers/smart_nation_fellowship_group2.png)
+![Smart Nation Fellowship Fellows](/images/careers/smart_nation_fellowship_group2.png)
 
 *   [Paul Piong, Staff Firmware Engineer, Tesla](https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/#paul-piong)  
     
