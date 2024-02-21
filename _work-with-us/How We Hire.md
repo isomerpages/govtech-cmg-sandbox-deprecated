@@ -72,7 +72,7 @@ c. Showcase your critical thinking skills by suggesting ways in which you will r
 
 If you’re ready to start the process, apply now. Good luck!
 
-[![Apply Now Button](https://d33wubrfki0l68.cloudfront.net/bbeeebf1efd3df812fe6c6bc69b7444061261c02/7f243/images/careers/apply-now-01.png)](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)
+[![Apply Now Button](/images/careers/apply-now-01.png)](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be)
 
 * * *
 
