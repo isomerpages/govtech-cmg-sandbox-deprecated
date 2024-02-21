@@ -4,7 +4,7 @@ permalink: /about-us/our-5-capability-centres/permalink/
 description: ""
 third_nav_title: Our 5 Capability Centres
 ---
-![Cybersecurity](https://d33wubrfki0l68.cloudfront.net/1b0c2dd638fb3810ddf855e9750136b43595ded3/3cb6f/images/capcentre-csg-banner.jpg)
+![Cybersecurity](/images/capcentre-csg-banner.jpg)
 
 #### **Cybersecurity**
 
@@ -44,6 +44,6 @@ Here are some of the roles we are hiring for:
 
 Check out our available jobs [here](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be).
 
-![Cybersecurity Quotes](https://d33wubrfki0l68.cloudfront.net/3dc270be22c6a7c6ef21ebd5b8dc42939fea98a7/df3aa/images/capcentre-csg-quotes.png)
+![Cybersecurity Quotes](/images/capcentre-csg-quotes.png)
 
 * * *
