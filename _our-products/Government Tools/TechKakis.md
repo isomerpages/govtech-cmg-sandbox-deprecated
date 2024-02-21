@@ -4,7 +4,7 @@ permalink: /our-products/government-tools/permalink/
 description: ""
 third_nav_title: Government Tools
 ---
-![Tech Kaki banner](https://d33wubrfki0l68.cloudfront.net/faa0cd11e22bebcd98fbc96cef5b736485184660/ea9df/images/programmes/products-and-services/techkaki-header.jpg)
+![Tech Kaki banner](/images/programmes/products-and-services/techkaki-header.jpg)
 
 We want to solve problems. In fact, we want to solve problems with you!
 
