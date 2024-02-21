@@ -16,7 +16,7 @@ The survey was conducted from November 2021 to December 2021 for the reporting p
 
 About 1500 respondents were surveyed, comprising representatives of the total demographic population from 19 years old and above. Data collection was done via face-to-face interviews.
 
-![Digital Government Perception Survey 2021 for Citizens by GovTech](https://d33wubrfki0l68.cloudfront.net/458ad789e62c6799860f7bcba1c39b89beb683d8/36c29/images/our-statistics/digital-government-perception-2021-citizens.png)
+![Digital Government Perception Survey 2021 for Citizens by GovTech](/images/our-statistics/digital-government-perception-2021-citizens.png)
 
 ### **Annual Survey on Satisfaction with Government Digital Services (Businesses) - For 2021**
 
@@ -30,7 +30,7 @@ The survey was conducted from November 2021 to January 2022 for the reporting pe
 
 Close to 1130 company respondents were surveyed, from a range of industry sectors (e.g. Commerce, Construction, Financial & Business Services, Manufacturing, Transportation, Storage, Information & Communications, etc.), and company types and sizes in Singapore were surveyed. Data collection was done through telephone interviews.
 
-![Digital Government Perception Survey 2021 for Business by GovTech](https://d33wubrfki0l68.cloudfront.net/eb2431a95f53aea8798a91ff42125c9ae568d14e/27c76/images/our-statistics/digital-government-perception-2021-business.png)
+![Digital Government Perception Survey 2021 for Business by GovTech](/images/our-statistics/digital-government-perception-2021-business.png)
 
 **Past Years’ Results for Surveys on Satisfaction with Government Digital Services for Citizens and Businesses**
 
